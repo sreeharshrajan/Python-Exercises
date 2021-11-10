@@ -14,7 +14,7 @@ Python is a popular, general purpose and _high-level_ programming language. Crea
 - Scientific Computing and Data Processing
 - Multimedia, Image Processing, etc.
 
-## Some Companies that use python are:
+## Some Companies that use python are
 
 - Google
 - Facebook
@@ -23,6 +23,6 @@ Python is a popular, general purpose and _high-level_ programming language. Crea
 - Disney
 - Amazon
 
-## Stuffs I am learning:
+## Stuffs I am learning
 
 - Basics: Variables and Datatypes, Lists, Loops, Functions, String Operations, Modules and Packages, Classes and Objects, Dictionaries, Files
